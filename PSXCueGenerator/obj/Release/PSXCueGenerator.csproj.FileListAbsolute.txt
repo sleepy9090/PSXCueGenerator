@@ -6,3 +6,13 @@ F:\Users\sleepy\Documents\visual studio 2013\Projects\PSXCueGenerator\PSXCueGene
 F:\Users\sleepy\Documents\visual studio 2013\Projects\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.csproj.GenerateResource.Cache
 F:\Users\sleepy\Documents\visual studio 2013\Projects\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.exe
 F:\Users\sleepy\Documents\visual studio 2013\Projects\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.pdb
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\bin\Release\PSXCueGenerator.exe
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\bin\Release\PSXCueGenerator.pdb
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.AboutBox1.resources
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.FormMain.resources
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.exe
+C:\Users\Administrator\source\repos\PSXCueGenerator\PSXCueGenerator\obj\Release\PSXCueGenerator.pdb
